@@ -14,3 +14,5 @@
 ## VLIW - Very Long Instruction Words
 
  ![vliw](https://github.com/user-attachments/assets/abdb23b3-6be4-4073-b607-af2ecbacafd3)
+
+ [Next: Memory Latency](./memory-latency.md)
